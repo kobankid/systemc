@@ -13,5 +13,5 @@ all:
 	./${EXE}
 
 clean:
-	rm -rf hello
+	rm -rf ${EXE}
 
